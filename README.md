@@ -1,1 +1,1 @@
-# izrada-web-aplikacija
+repozitorij za labaratorijske vjezbe izrade web aplikacija
